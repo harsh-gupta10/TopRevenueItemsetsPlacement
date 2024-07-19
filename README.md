@@ -2,7 +2,7 @@
 
 This repository contains a Python implementation of the Slot Type Utility (STU) index and TIPDS placement algorithm, as proposed in the research paper:
 
-**Chaudhary, P., Mondal, A., & Reddy, P. K. (2020).** An improved scheme for determining top-revenue itemsets for placement in retail businesses. *International Journal of Data Science and Analytics*, 10(4), 359-375. [DOI:10.1007/s41060-020-00221-5](https://doi.org/10.1007/s41060-020-00221-5)
+**Chaudhary, P., Mondal, A., & Reddy, P. K. (2020).** An improved scheme for determining top-revenue itemsets for placement in retail businesses. [Link to paper](https://www.researchgate.net/publication/341746423_An_improved_scheme_for_determining_top-revenue_itemsets_for_placement_in_retail_businesses)
 
 ## Overview
 
